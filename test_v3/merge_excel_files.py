@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-base_dir = r"d:\Workspace\Manage_TO\test_v3"
+base_dir = r"c:\Workspace\Manage_TO\test_v3"
 
 def merge_files(file1, file2, output_file):
     path1 = os.path.join(base_dir, file1)

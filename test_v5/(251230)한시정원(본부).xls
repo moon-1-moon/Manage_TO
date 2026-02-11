@@ -1,0 +1,8421 @@
+
+
+ 
+
+
+
+
+
+
+
+
+
+   
+
+
+<!-- popHeader -->
+<div id="popHeader">
+    <h2>부서별 정원 배정표</h2>
+</div>
+<!--// popHeader -->
+<div>
+	<h4>본부 / 한시 / 기준정원</h4>
+	<span>기준일자 추가 사유 : 수시직제 협의결과 등 반영</span>
+</div>
+<table border="1">
+<tbody>
+ <tr>
+	
+	 	<td rowspan="3" style="height:350px;text-align:center;">기관코드</td>
+	 	<td rowspan="3" style="height:350px;text-align:center;">기관명</td>
+	 	<td rowspan="3" style="height:350px;text-align:center;width:70px;">기관구분</td>
+	 	<td rowspan="3" style="height:350px;text-align:center;">소속기관차수</td>
+	 	<td rowspan="3" style="height:350px;text-align:center;">중분류</td>
+	 	<td rowspan="3" style="height:350px;text-align:center;">소분류</td>
+	 	<td rowspan="3" style="height:350px;text-align:center;">기구유형</td>
+	 	<td rowspan="3" style="height:350px;text-align:center;">보임직급</td>
+	 	<td rowspan="3" style="height:350px;text-align:center;">상호이체보임직급</td>
+ 	
+ 	
+	
+	  <!-- 합계부문 -->
+      	<td style="text-align:center;width:70px;" rowspan="3">합계</td>
+	  
+	
+	  <!-- 합계부문 -->
+      	<td style="text-align:center;width:70px;" rowspan="3">일반직</td>
+	  
+	
+	  
+	
+	  
+	
+	  
+	
+	  
+	
+	
+	  
+	
+	  <!-- 직무부문 -->
+      	<td style="text-align:center;" colspan="4">일반직</td>
+	  
+	
+	  
+	
+	  
+	
+	  
+	
+	  
+	
+ </tr>
+ <tr><!-- 2행 -->
+	
+	  
+	
+	  
+	
+	  <!-- 계급부문 -->
+        
+        
+        	<td style="text-align:center">4급</td>
+        
+	  
+	
+	  <!-- 계급부문 -->
+        
+        
+        	<td style="text-align:center">5급</td>
+        
+	  
+	
+	  <!-- 계급부문 -->
+        
+        
+        	<td style="text-align:center">6급</td>
+        
+	  
+	
+	  <!-- 계급부문 -->
+        
+        
+        	<td style="text-align:center">6급</td>
+        
+	  
+	
+ </tr>		   
+ <tr><!-- 3행 --><!-- 직급 -->
+	
+	  
+	
+	  
+	
+	  
+		
+          <td style="text-align:center;width:70px;">서기관,과학기술서기관(2027-04-10)</td>
+	    
+      
+	
+	  
+		
+          <td style="text-align:center;width:70px;">행정사무관(2027-04-10)</td>
+	    
+      
+	
+	  
+		
+          <td style="text-align:center;width:70px;">행정주사(2027-04-10)</td>
+	    
+      
+	
+	  
+		
+          <td style="text-align:center;width:70px;">전산주사(구직자 취업지원 및 관련 심사ㆍ재심사)(2025-12-31)</td>
+	    
+      
+	
+ </tr>
+ 
+<!-- Data 영역 -->
+ <tr style="background:#ccc;">
+  <th style="text-align: right;" colspan="9">법령정원총계</th>
+  
+	
+		<th style="text-align: right;">           5.0</th>
+	
+		<th style="text-align: right;">           5.0</th>
+	
+		<th style="text-align: right;">           1.0</th>
+	
+		<th style="text-align: right;">           3.0</th>
+	
+		<th style="text-align: right;">           1.0</th>
+	
+		<th style="text-align: right;">           0.0</th>
+	
+ </tr>
+
+ <tr style="background:#ccc;"><!-- 부서입력계 -->
+  <th style="text-align: right;" colspan="9">입력합계</th>
+  
+	
+		<th style="text-align: right;">           6.0</th>
+	
+		<th style="text-align: right;">           6.0</th>
+	
+		<th style="text-align: right;">           1.0</th>
+	
+		<th style="text-align: right;">           3.0</th>
+	
+		<th style="text-align: right;">           1.0</th>
+	
+		<th style="text-align: right;">           1.0</th>
+	
+ </tr>
+
+ <!-- 조회부서 -->
+
+ 
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1492001</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		장관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">기관장</td>
+		<td style="text-align:center;">기관장</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">장관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">149200A</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		장관정책보좌관2
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">정책보좌관</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">3급상당,4급상당</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493690</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		장관정책보좌관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">정책보좌관</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 별정직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1492002</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		차관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">부기관장</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">차관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+		<tr style="background: #FFEED8;">
+	
+	
+	
+			<td style="text-align:center;">1493687</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		대변인
+		
+		
+		  [2]
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">실장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(가)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				
+		          <th style="text-align:right;">           0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493687</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		대변인
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">실장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(가)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1492992</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		홍보담당관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494930</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		디지털소통팀
+		
+		  (총액:2027-12-31)
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">총액인건비(일반)</td>
+		<td style="text-align:center;">과학기술서기관,서기관,행정사무관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+		<tr style="background: #FFEED8;">
+	
+	
+	
+			<td style="text-align:center;">1492006</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		감사관
+		
+		
+		  [2]
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				
+		          <th style="text-align:right;">           0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1492006</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		감사관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493631</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		감사담당관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493002</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		민원운영팀
+		
+		  (총액:2027-09-22)
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">총액인건비(일반)</td>
+		<td style="text-align:center;">과학기술서기관,서기관,행정사무관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+		<tr style="background: #FFEED8;">
+	
+	
+	
+			<td style="text-align:center;">1493633</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		기획조정실
+		
+		
+		  [2]
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">실장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(가)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				
+		          <th style="text-align:right;">           0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493633</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		기획조정실
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">실장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(가)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+		<tr style="background: #FFEB99;">
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493639</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		정책기획관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493639</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		정책기획관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493663</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		기획재정담당관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494914</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		혁신행정담당관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493665</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		규제개혁법무담당관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1492867</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		양성평등정책담당관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494694</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		비상안전담당관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">임기제 서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493004</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		지능정보화기획팀
+		
+		  (총액:2027-09-22)
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">총액인건비(일반)</td>
+		<td style="text-align:center;">과학기술서기관,서기관,행정사무관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+		<tr style="background: #FFEB99;">
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493640</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		국제협력관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493640</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		국제협력관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493667</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		국제협력담당관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494682</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		외국인력담당관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493003</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		국제개발협력팀
+		
+		  (총액:2027-09-22)
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">총액인건비(일반)</td>
+		<td style="text-align:center;">과학기술서기관,서기관,행정사무관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+		<tr style="background: #FFEED8;">
+	
+	
+	
+			<td style="text-align:center;">1493634</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		고용정책실
+		
+		
+		  [3]
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">실장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(가)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				
+		          <th style="text-align:right;">           1.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">           1.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">           1.0</th>
+		        
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493634</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		고용정책실
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">실장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(가)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+		<tr style="background: #FFEB99;">
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493862</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		노동시장정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493862</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		노동시장정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494580</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		고용정책총괄과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494734</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		지역산업고용정책과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1492970</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		기업일자리지원과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+		<tr style="background: #FFEB99;">
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493724</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		고용서비스정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           1.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           1.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           1.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493724</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		고용서비스정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493729</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		고용서비스정책과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494581</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		고용보험기획과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493730</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		고용지원실업급여과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494693</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		자산운용팀
+		
+		  (총액:2027-12-31)
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">총액인건비(일반)</td>
+		<td style="text-align:center;">과학기술서기관,서기관,행정사무관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1492889</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		국민취업지원기획팀
+		
+		  (총액:2027-12-31)
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">총액인건비(일반)</td>
+		<td style="text-align:center;">과학기술서기관,서기관,행정사무관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           1.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           1.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           1.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+		<tr style="background: #FFEB99;">
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494937</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		고용지원정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494937</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		고용지원정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494941</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		고용서비스기반과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494946</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		고용문화개선정책과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494948</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		미래고용분석과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494951</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		노동시장조사과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+		<tr style="background: #FFEED8;">
+	
+	
+	
+			<td style="text-align:center;">1494931</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		통합고용정책국
+		
+		
+		  [4]
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				
+		          <th style="text-align:right;">           0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494931</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		통합고용정책국
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494932</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		고령사회인력정책과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494933</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		장애인고용과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494936</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		사회적기업과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+		<tr style="background: #FFEB99;">
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494938</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		청년고용정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494938</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		청년고용정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494942</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		청년고용기획과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494944</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		청년취업지원과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494949</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		공정채용기반과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+		<tr style="background: #FFEED8;">
+	
+	
+	
+			<td style="text-align:center;">1494744</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		직업능력정책국
+		
+		
+		  [4]
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				
+		          <th style="text-align:right;">           0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">           0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494744</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		직업능력정책국
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494745</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		직업능력정책과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494746</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		직업능력평가과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494747</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		인적자원개발과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1492960</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		기업훈련지원과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+		<tr style="background: #FFEED8;">
+	
+	
+	
+			<td style="text-align:center;">1494582</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		노동정책실
+		
+		
+		  [4]
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">실장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(가)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				
+		          <th style="text-align:right;">           5.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">           5.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">           1.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">           3.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">           1.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494582</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		노동정책실
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">실장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(가)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+		<tr style="background: #FFEB99;">
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494956</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		노동정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           5.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           5.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           1.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           3.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           1.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494956</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		노동정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494968</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		노동정책총괄과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494972</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		노무제공자지원과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494975</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		공공노사관계과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494978</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		임금근로시간정책과
+		
+		  (한시:2027-04-10)
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">한시(일반)</td>
+		<td style="text-align:center;">과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           5.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           5.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           1.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           3.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">           1.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+		<tr style="background: #FFEB99;">
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494585</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		노사협력정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494585</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		노사협력정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494596</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		노사협력정책과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494597</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		노사관계법제과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494598</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		노사관계지원과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+		<tr style="background: #FFEB99;">
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494748</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		근로기준정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494748</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		근로기준정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494749</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		근로기준정책과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494750</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		퇴직연금복지과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494751</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		고용차별개선과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+		<tr style="background: #FFEB99;">
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494965</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		근로감독정책단
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494965</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		근로감독정책단
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494967</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		근로감독기획과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494971</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		근로감독협력과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494953</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		산업안전보건본부
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">차관(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">차관급</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1493632</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		운영지원과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+		<tr style="background: #FFEED8;">
+	
+	
+	
+			<td style="text-align:center;">1494954</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		산업안전보건정책실
+		
+		
+		  [2]
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">실장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(가)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				
+		          <th style="text-align:right;">           0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494954</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		산업안전보건정책실
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">실장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(가)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+		<tr style="background: #FFEB99;">
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494957</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		산업안전예방정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494957</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		산업안전예방정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494970</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		산업안전정책과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494974</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		산업안전기준과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494977</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		산재예방지원과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+		<tr style="background: #FFEB99;">
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494960</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		산업보건보상정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494960</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		산업보건보상정책관
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보좌기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494969</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		산업보건정책과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494973</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		산재보상정책과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494976</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		노무제공자안전보호과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494979</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  &nbsp;&nbsp;
+		  
+		  
+		  
+		직업건강증진팀
+		
+		  (총액:2026-06-30)
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">총액인건비(일반)</td>
+		<td style="text-align:center;">과학기술서기관,서기관,공업사무관,보건사무관,시설사무관,행정사무관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+		<tr style="background: #FFEED8;">
+	
+	
+	
+			<td style="text-align:center;">1494955</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		안전보건감독국
+		
+		
+		  [4]
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				
+		          <th style="text-align:right;">           0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+				
+				
+		          <th style="text-align:right;">0.0</th>
+		        
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494955</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		안전보건감독국
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">국장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 일반직(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494958</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		안전보건감독기획과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494961</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		중대산업재해수사과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494963</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		건설산재예방감독과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1494966</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  &nbsp;
+		  
+		  
+		  
+		  
+		화학사고예방조사과
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">하부조직(보조기관)</td>
+		<td style="text-align:center;">과장(급)</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">부이사관,과학기술서기관,서기관</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+	
+	
+	
+	
+	
+	
+	
+		
+		<tr>
+ 	
+ 	
+ 	
+	
+	
+			<td style="text-align:center;">1492961</td>
+	
+ 	
+	<td style="text-align:left;">
+		
+		  
+		  
+		  
+		  
+		고용보험심사위원회상임위원
+		
+		
+    </td>
+    
+    <!-- 부서정보 추가 -->
+    
+		<!-- 순서 : 기관코드, 부서명, 기관구분, 소속기관차수, 유형분류(중), 유형분류(소), 기구유형, 보임직급, 상호이체 보임직급 --> 
+		<td style="text-align:center;">본부</td>
+		<td style="text-align:center;">0</td>
+		<td style="text-align:center;">위원</td>
+		<td style="text-align:center;">위원</td>
+		<td style="text-align:center;">정규</td>
+		<td style="text-align:center;">고위공무원단에 속하는 임기제(나)</td>
+		<td style="text-align:center;"></td>
+    	
+    
+    
+    
+    
+		
+				
+				  <td style="text-align:right;">           0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+				
+				  <td style="text-align:right;">0.0</td>
+				
+				
+		
+ </tr>
+
+
+<!-- 타부서 -->	                
+
+ 
+</tbody>
+</table>
+
+
